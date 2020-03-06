@@ -5,13 +5,13 @@ menu:
   Archives: /archives
 
 # Title on top left of menu. Leave empty to use main blog title
-menu_title: 
+menu_title:
 
 # URL of the Home page image
 index_cover: http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/img/home-bg.jpg
 
 # Default post title
-default_post_title: 
+default_post_title:
 
 # Comments. Choose one by filling up the information
 comments:
