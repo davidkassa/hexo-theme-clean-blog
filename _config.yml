@@ -1,29 +1,22 @@
 # Header
 menu:
   Home: /
+  About: /about
   Archives: /archives
-  Github:
-    url: https://github.com/klugjo/hexo-theme-clean-blog
-    icon: github
 
 # Title on top left of menu. Leave empty to use main blog title
-menu_title: Configurable Title
+menu_title: 
 
 # URL of the Home page image
 index_cover: http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/img/home-bg.jpg
 
 # Default post title
-default_post_title: Untitled
+default_post_title: 
 
 # Comments. Choose one by filling up the information
 comments:
   # Disqus comments
-  disqus_shortname:
-  # Facebook comments
-  facebook:
-    appid:
-    comment_count: 5
-    comment_colorscheme: light
+  disqus_shortname: davidkassa
 
 # Google Analytics Tracking ID
 google_analytics:
@@ -32,13 +25,13 @@ google_analytics:
 addthis:
 
 # set your own favicon
-favicon:
+favicon: /favicon.ico
 
 # Social Accounts
-twitter_url:
-twitter_handle:
-facebook_url:
-github_url: https://github.com/klugjo/hexo-theme-clean-blog
-gitlab_url:
-linkedin_url:
-mailto:
+twitter_url: https://twitter.com/dmkassa
+twitter_handle: dmkassa
+facebook_url: https://www.facebook.com/david.kassa
+github_url: https://github.com/davidkassa
+gitlab_url: https://gitlab.com/davidkassa
+linkedin_url: https://www.linkedin.com/in/davidkassa
+mailto: david.kassa@gmail.com
